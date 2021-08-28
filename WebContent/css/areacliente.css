@@ -1,0 +1,97 @@
+#container-header{
+	background-color: #BEBEBE;
+	max-width: 1800px;
+}
+
+#logo{
+	max-width: 100%;
+	
+}
+
+.navcontainer{
+	padding-bottom: 5px;
+	border-top-left-radius: 5px;
+	
+}
+
+#btnSair{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	font-size: 12px;
+	
+}
+@media (min-width: 992px){
+#containerSession{
+	margin-top: 50px;
+	
+}
+}
+
+#calendario{
+margin-top: 100px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+max-width: 100%;
+border: 2px solid gray;
+padding: 50px;
+
+
+
+
+
+}
+
+
+
+#relatorio{
+margin-top: 100px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+max-width: 100%;
+border: 2px solid gray;
+padding: 50px;
+
+}
+
+.desc{
+	padding: 15px;
+	text-align: center;
+}
+
+#dadosbox{
+	font-size: 18px;
+}
+
+#form-coluna{
+
+	border: 5px groove gray;
+	border-width: medium;
+	max-width: 1800px;
+
+}
+#tableConsulta{
+	
+	border: 5px groove gray;
+	border-width: medium;
+	border-radius: 5px;
+	
+}
+.btnconsulta{
+width: 690px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#home, #consultas{
+	cursor: pointer;
+}
+
+#agendamento{
+	display: none;
+}
+
+
+
